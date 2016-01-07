@@ -4,7 +4,7 @@
 
 原代码请见** [wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends)**
 
-鉴于有些用户没有安装python环境，**固将原作者的代码及依赖打包发布成exe可执行文件**。
+鉴于有些用户没有安装python环境，**固将原作者的代码及依赖打包发布成exe可执行文件**，方便用户。
 
 可在windows32位或64位操作系统下运行，用户直接下载双击即可执行文件。
 
